@@ -1,6 +1,6 @@
 <%-- 
-    Document   : kolmas
-    Created on : Apr 20, 2016, 1:47:21 PM
+    Document   : neljas
+    Created on : Apr 20, 2016, 1:59:56 PM
     Author     : omihu009
 --%>
 
@@ -12,6 +12,6 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <h1>Hello skjdhgfWorld!</h1>
+        <h1>Hello World!</h1>
     </body>
 </html>
