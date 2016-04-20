@@ -1,6 +1,6 @@
 <%-- 
-    Document   : toka
-    Created on : Apr 20, 2016, 1:02:36 PM
+    Document   : kolmas
+    Created on : Apr 20, 2016, 1:47:21 PM
     Author     : omihu009
 --%>
 
@@ -12,6 +12,6 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <h1>Tokasivu2</h1>
+        <h1>Hello World!</h1>
     </body>
 </html>
